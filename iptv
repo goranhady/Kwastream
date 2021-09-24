@@ -1,225 +1,75 @@
-#EXTINF:-1,----- BienSport --------
-#EXTINF:-1,AR: Bein Sport 1 HD
-http://185.2.83.209:8000/live/123456/123456/169.ts
-#EXTINF:-1,AR: Bein Sport 2 HD
-http://185.2.83.209:8000/live/123456/123456/168.ts
-#EXTINF:-1,AR: Bein Sport 3 HD
-http://185.2.83.209:8000/live/123456/123456/167.ts
-#EXTINF:-1,AR: Bein Sport 4 HD
-http://185.2.83.209:8000/live/123456/123456/166.ts
-#EXTINF:-1,AR: Bein Sport 5 HD
-http://185.2.83.209:8000/live/123456/123456/165.ts
-#EXTINF:-1,AR: Bein Sport 6 HD
-http://185.2.83.209:8000/live/123456/123456/164.ts
-#EXTINF:-1,AR: Bein Sport 7 HD
-http://185.2.83.209:8000/live/123456/123456/163.ts
-#EXTINF:-1,AR: Bein Sport 8 HD
-http://185.2.83.209:8000/live/123456/123456/162.ts
-#EXTINF:-1,AR: Bein Sport 9 HD
-http://185.2.83.209:8000/live/123456/123456/161.ts
-#EXTINF:-1,AR: Bein Sport 10 HD
-http://185.2.83.209:8000/live/123456/123456/160.ts
-#EXTINF:-1,AR: Bein Sport 11 HD
-http://185.2.83.209:8000/live/123456/123456/159.ts
-#EXTINF:-1,AR: Bein Sport 12 HD
-http://185.2.83.209:8000/live/123456/123456/170.ts
-#EXTINF:-1,AR: Bein Sport 1 SD
-http://185.2.83.209:8000/live/123456/123456/2456.ts
-#EXTINF:-1,AR: Bein Sport 2 SD
-http://185.2.83.209:8000/live/123456/123456/2457.ts
-#EXTINF:-1,AR: Bein Sport 3 SD
-http://185.2.83.209:8000/live/123456/123456/2458.ts
-#EXTINF:-1,AR: Bein Sport 4 SD
-http://185.2.83.209:8000/live/123456/123456/2459.ts
-#EXTINF:-1,AR: Bein Sport 5 SD
-http://185.2.83.209:8000/live/123456/123456/2460.ts
-#EXTINF:-1,AR: Bein Sport 6 SD
-http://185.2.83.209:8000/live/123456/123456/2461.ts
-#EXTINF:-1,AR: Bein Sport 7 SD
-http://185.2.83.209:8000/live/123456/123456/2462.ts
-#EXTINF:-1,AR: Bein Sport 8 SD
-http://185.2.83.209:8000/live/123456/123456/2463.ts
-#EXTINF:-1,AR: Bein Sport 9 SD
-http://185.2.83.209:8000/live/123456/123456/2464.ts
-#EXTINF:-1,AR: Bein Sport 10 SD
-http://185.2.83.209:8000/live/123456/123456/2465.ts
-#EXTINF:-1,AR: Bein Sport 11 SD
-http://185.2.83.209:8000/live/123456/123456/2466.ts
-#EXTINF:-1,AR: Bein Sport 12 SD
-http://185.2.83.209:8000/live/123456/123456/2467.ts
-#EXTINF:-1,AR: Bein Sport 1 Low
-http://185.2.83.209:8000/live/123456/123456/2472.ts
-#EXTINF:-1,AR: Bein Sport 2 Low
-http://185.2.83.209:8000/live/123456/123456/2473.ts
-#EXTINF:-1,AR: Bein Sport 3 Low
-http://185.2.83.209:8000/live/123456/123456/2481.ts
-#EXTINF:-1,AR: Bein Sport 4 Low
-http://185.2.83.209:8000/live/123456/123456/2474.ts
-#EXTINF:-1,AR: Bein Sport 5 Low
-http://185.2.83.209:8000/live/123456/123456/2475.ts
-#EXTINF:-1,AR: Bein Sport 6 Low
-http://185.2.83.209:8000/live/123456/123456/2476.ts
-#EXTINF:-1,AR: Bein Sport 7 Low
-http://185.2.83.209:8000/live/123456/123456/2477.ts
-#EXTINF:-1,AR: Bein Sport 8 Low
-http://185.2.83.209:8000/live/123456/123456/2478.ts
-#EXTINF:-1,AR: Bein Sport 9 Low
-http://185.2.83.209:8000/live/123456/123456/2479.ts
-#EXTINF:-1,AR: Bein Sport 10 Low
-http://185.2.83.209:8000/live/123456/123456/2480.ts
-#EXTINF:-1,AR: Bein Movies 1
-http://185.2.83.209:8000/live/123456/123456/175.ts
-#EXTINF:-1,AR: Bein Movies 2
-http://185.2.83.209:8000/live/123456/123456/176.ts
-#EXTINF:-1,AR: Bein Movies 3
-http://185.2.83.209:8000/live/123456/123456/177.ts
-#EXTINF:-1,AR: Bein Movies 4
-http://185.2.83.209:8000/live/123456/123456/178.ts
-#EXTINF:-1,------ OSN ----------
-http://185.2.83.209:8000/live/123456/123456/2455.ts
-#EXTINF:-1,AR: Osn Cinema 1
-http://185.2.83.209:8000/live/123456/123456/2384.ts
-#EXTINF:-1,AR: Osn Cinema 2
-http://185.2.83.209:8000/live/123456/123456/2385.ts
-#EXTINF:-1,AR: Osn Safwa
-http://185.2.83.209:8000/live/123456/123456/2399.ts
-#EXTINF:-1,AR: Osn Fann
-http://185.2.83.209:8000/live/123456/123456/2390.ts
-#EXTINF:-1,AR: Osn Yahla Cinma
-http://185.2.83.209:8000/live/123456/123456/2391.ts
-#EXTINF:-1,AR: Osn Yahla
-http://185.2.83.209:8000/live/123456/123456/2420.ts
-#EXTINF:-1,AR: Osn MBC+ Drama
-http://185.2.83.209:8000/live/123456/123456/2387.ts
-#EXTINF:-1,AR: Osn Mousalsalat
-http://185.2.83.209:8000/live/123456/123456/2398.ts
-#EXTINF:-1,AR: Osn Mousalsalat 2
-http://185.2.83.209:8000/live/123456/123456/2400.ts
-#EXTINF:-1,AR: Osn SeeVii Drama HD
-http://185.2.83.209:8000/live/123456/123456/2366.ts
-#EXTINF:-1,AR: Osn SeeVii Beelink HD
-http://185.2.83.209:8000/live/123456/123456/2368.ts
-#EXTINF:-1,AR: Osn SeeVii Shamiya HD
-http://185.2.83.209:8000/live/123456/123456/2367.ts
-#EXTINF:-1,AR: Osn SeeVii Al Aoula HD
-http://185.2.83.209:8000/live/123456/123456/2365.ts
-#EXTINF:-1,AR: Osn Movies HD
-http://185.2.83.209:8000/live/123456/123456/2374.ts
-#EXTINF:-1,AR: Osn Movies+2
-http://185.2.83.209:8000/live/123456/123456/2377.ts
-#EXTINF:-1,AR: Osn Movies Action HD
-http://185.2.83.209:8000/live/123456/123456/2375.ts
-#EXTINF:-1,AR: Osn Movies Action 2 HD
-http://185.2.83.209:8000/live/123456/123456/2376.ts
-#EXTINF:-1,AR: Osn Movies Premier 2
-http://185.2.83.209:8000/live/123456/123456/2378.ts
-#EXTINF:-1,AR: Osn Movies Comdy HD
-http://185.2.83.209:8000/live/123456/123456/2372.ts
-#EXTINF:-1,AR: Osn Movies Drama
-http://185.2.83.209:8000/live/123456/123456/2426.ts
-#EXTINF:-1,AR: Osn Movies Festival
-http://185.2.83.209:8000/live/123456/123456/2424.ts
-#EXTINF:-1,AR: Osn Movies Premier HD
-http://185.2.83.209:8000/live/123456/123456/2405.ts
-#EXTINF:-1,AR: Osn Movies Hollywood
-http://185.2.83.209:8000/live/123456/123456/2370.ts
-#EXTINF:-1,AR: Osn Movies Hollywood 2
-http://185.2.83.209:8000/live/123456/123456/2371.ts
-#EXTINF:-1,AR: Osn Movies Kids
-http://185.2.83.209:8000/live/123456/123456/2379.ts
-#EXTINF:-1,AR: Osn Movies Disny
-http://185.2.83.209:8000/live/123456/123456/2380.ts
-#EXTINF:-1,AR: Osn Box Offiec 1
-http://185.2.83.209:8000/live/123456/123456/2419.ts
-#EXTINF:-1,AR: Osn Box Offiec 2
-http://185.2.83.209:8000/live/123456/123456/2418.ts
-#EXTINF:-1,AR: Osn Box Offiec 3
-http://185.2.83.209:8000/live/123456/123456/2417.ts
-#EXTINF:-1,AR: Osn Demand HD HD
-http://185.2.83.209:8000/live/123456/123456/2369.ts
-#EXTINF:-1,AR: Osn Demand 2 HD
-http://185.2.83.209:8000/live/123456/123456/2359.ts
-#EXTINF:-1,AR: Osn Demand 3 HD
-http://185.2.83.209:8000/live/123456/123456/2388.ts
-#EXTINF:-1,AR: Osn Discovry
-http://185.2.83.209:8000/live/123456/123456/2430.ts
-#EXTINF:-1,AR: Osn Discovry ID
-http://185.2.83.209:8000/live/123456/123456/2431.ts
-#EXTINF:-1,AR: Osn Discovry SCI ID
-http://185.2.83.209:8000/live/123456/123456/2432.ts
-#EXTINF:-1,AR: Osn Nat Geo People HD
-http://185.2.83.209:8000/live/123456/123456/2429.ts
-#EXTINF:-1,AR: Osn National Geo HD
-http://185.2.83.209:8000/live/123456/123456/2358.ts
-#EXTINF:-1,AR: Osn Nat Geo Wild HD
-http://185.2.83.209:8000/live/123456/123456/2357.ts
-#EXTINF:-1,AR: Osn Animal Planet
-http://185.2.83.209:8000/live/123456/123456/2383.ts
-#EXTINF:-1,AR: Osn History HD
-http://185.2.83.209:8000/live/123456/123456/2360.ts
-#EXTINF:-1,AR: Osn History 2 HD
-http://185.2.83.209:8000/live/123456/123456/2361.ts
-#EXTINF:-1,AR: Osn Nickelodeon HD
-http://185.2.83.209:8000/live/123456/123456/2406.ts
-#EXTINF:-1,AR: Osn Nickelodeon JR
-http://185.2.83.209:8000/live/123456/123456/2389.ts
-#EXTINF:-1,AR: Osn Disney XD
-http://185.2.83.209:8000/live/123456/123456/2363.ts
-#EXTINF:-1,AR: Osn Star Movies
-http://185.2.83.209:8000/live/123456/123456/2428.ts
-#EXTINF:-1,AR: Osn Star world
-http://185.2.83.209:8000/live/123456/123456/2427.ts
-#EXTINF:-1,AR: Osn Star World +HD
-http://185.2.83.209:8000/live/123456/123456/2397.ts
-#EXTINF:-1,AR: Osn Groummet
-http://185.2.83.209:8000/live/123456/123456/2421.ts
-#EXTINF:-1,AR: Osn DTX
-http://185.2.83.209:8000/live/123456/123456/2386.ts
-#EXTINF:-1,AR: Osn E! HD
-http://185.2.83.209:8000/live/123456/123456/2381.ts
-#EXTINF:-1,AR: Osn FX HD
-http://185.2.83.209:8000/live/123456/123456/2422.ts
-#EXTINF:-1,AR: Osn First HD
-http://185.2.83.209:8000/live/123456/123456/2423.ts
-#EXTINF:-1,AR: Osn First Comdy HD
-http://185.2.83.209:8000/live/123456/123456/2382.ts
-#EXTINF:-1,AR: Osn Fox Family Movies
-http://185.2.83.209:8000/live/123456/123456/2425.ts
-#EXTINF:-1,AR: Osn Fox Action Movies HD
-http://185.2.83.209:8000/live/123456/123456/2364.ts
-#EXTINF:-1,AR: Osn Fox Movies HD
-http://185.2.83.209:8000/live/123456/123456/2401.ts
-#EXTINF:-1,AR: Osn Fox HD
-http://185.2.83.209:8000/live/123456/123456/2402.ts
-#EXTINF:-1,AR: Osn Dream Works
-http://185.2.83.209:8000/live/123456/123456/2403.ts
-#EXTINF:-1,AR: Osn Outdoor
-http://185.2.83.209:8000/live/123456/123456/2404.ts
-#EXTINF:-1,AR: Osn TLC HD
-http://185.2.83.209:8000/live/123456/123456/2393.ts
-#EXTINF:-1,AR: Osn SYFY
-http://185.2.83.209:8000/live/123456/123456/2392.ts
-#EXTINF:-1,AR: Osn Fatafeat
-http://185.2.83.209:8000/live/123456/123456/2362.ts
-#EXTINF:-1,AR: Osn Baraem 2 HD
-http://185.2.83.209:8000/live/123456/123456/2396.ts
-#EXTINF:-1,AR: Osn Ad Sport 1 HD
-http://185.2.83.209:8000/live/123456/123456/2433.ts
-#EXTINF:-1,AR: Osn Ad Sport 2 HD
-http://185.2.83.209:8000/live/123456/123456/2434.ts
-#EXTINF:-1,AR: Osn AD Sport 3 HD
-http://185.2.83.209:8000/live/123456/123456/2395.ts
-#EXTINF:-1,AR: Osn AD Sport 4 HD
-http://185.2.83.209:8000/live/123456/123456/2394.ts
-© 2021 GitHub, Inc.
-Terms
-Privacy
-Security
-Status
-Docs
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
+#EXTM3U
+#EXTINF:-1, BeINSPORTS News 
+http://tv.primatv.club:8899/live/prima10simo2/freetv2/756.ts
+#EXTVLCOPT:http-user-agent=FreeIPTV(1) LibVLC/3.0.0-git 
+#EXTINF:-1, BeINSPORTS Global
+http://tv.primatv.club:8899/live/prima10simo2/freetv2/755.ts
+#EXTVLCOPT:http-user-agent=FreeIPTV(1) LibVLC/3.0.0-git 
+#EXTINF:-1, BeINSPORTS 1 HD
+http://tv.primatv.club:8899/live/prima10simo2/freetv2/754.ts
+#EXTVLCOPT:http-user-agent=FreeIPTV(1) LibVLC/3.0.0-git 
+#EXTINF:-1, BeINSPORTS 1 SD
+http://tv.primatv.club:8899/live/prima10simo2/freetv2/753.ts
+#EXTVLCOPT:http-user-agent=FreeIPTV(1) LibVLC/3.0.0-git 
+#EXTINF:-1, BeINSPORTS 2 HD
+http://tv.primatv.club:8899/live/prima10simo2/freetv2/752.ts
+#EXTVLCOPT:http-user-agent=FreeIPTV(1) LibVLC/3.0.0-git 
+#EXTINF:-1, BeINSPORTS 2 SD
+http://tv.primatv.club:8899/live/prima10simo2/freetv2/751.ts
+#EXTVLCOPT:http-user-agent=FreeIPTV(1) LibVLC/3.0.0-git 
+#EXTINF:-1, BeINSPORTS 3 HD
+http://tv.primatv.club:8899/live/prima10simo2/freetv2/750.ts
+#EXTVLCOPT:http-user-agent=FreeIPTV(1) LibVLC/3.0.0-git 
+#EXTINF:-1, BeINSPORTS 3 SD
+http://tv.primatv.club:8899/live/prima10simo2/freetv2/749.ts
+#EXTVLCOPT:http-user-agent=FreeIPTV(1) LibVLC/3.0.0-git 
+#EXTINF:-1, BeINSPORTS 4 HD
+http://tv.primatv.club:8899/live/prima10simo2/freetv2/748.ts
+#EXTVLCOPT:http-user-agent=FreeIPTV(1) LibVLC/3.0.0-git 
+#EXTINF:-1, BeINSPORTS 4 SD
+http://tv.primatv.club:8899/live/prima10simo2/freetv2/747.ts
+#EXTVLCOPT:http-user-agent=FreeIPTV(1) LibVLC/3.0.0-git 
+#EXTINF:-1, BeINSPORTS 5 HD
+http://tv.primatv.club:8899/live/prima10simo2/freetv2/746.ts
+#EXTVLCOPT:http-user-agent=FreeIPTV(1) LibVLC/3.0.0-git 
+#EXTINF:-1, BeINSPORTS 5 SD
+http://tv.primatv.club:8899/live/prima10simo2/freetv2/745.ts
+#EXTVLCOPT:http-user-agent=FreeIPTV(1) LibVLC/3.0.0-git 
+#EXTINF:-1, BeINSPORTS 6 HD
+http://tv.primatv.club:8899/live/prima10simo2/freetv2/744.ts
+#EXTVLCOPT:http-user-agent=FreeIPTV(1) LibVLC/3.0.0-git 
+#EXTINF:-1, BeINSPORTS 6 SD
+http://tv.primatv.club:8899/live/prima10simo2/freetv2/743.ts
+#EXTVLCOPT:http-user-agent=FreeIPTV(1) LibVLC/3.0.0-git 
+#EXTINF:-1, BeINSPORTS 7 HD
+http://tv.primatv.club:8899/live/prima10simo2/freetv2/742.ts
+#EXTVLCOPT:http-user-agent=FreeIPTV(1) LibVLC/3.0.0-git 
+#EXTINF:-1, BeINSPORTS 7 SD
+http://tv.primatv.club:8899/live/prima10simo2/freetv2/741.ts
+#EXTVLCOPT:http-user-agent=FreeIPTV(1) LibVLC/3.0.0-git 
+#EXTINF:-1, BeINSPORTS 8 HD
+http://tv.primatv.club:8899/live/prima10simo2/freetv2/740.ts
+#EXTVLCOPT:http-user-agent=FreeIPTV(1) LibVLC/3.0.0-git 
+#EXTINF:-1, BeINSPORTS 8 SD
+http://tv.primatv.club:8899/live/prima10simo2/freetv2/739.ts
+#EXTVLCOPT:http-user-agent=FreeIPTV(1) LibVLC/3.0.0-git 
+#EXTINF:-1, BeINSPORTS 9HD
+http://tv.primatv.club:8899/live/prima10simo2/freetv2/738.ts
+#EXTVLCOPT:http-user-agent=FreeIPTV(1) LibVLC/3.0.0-git 
+#EXTINF:-1, BeINSPORTS 9 SD
+http://tv.primatv.club:8899/live/prima10simo2/freetv2/737.ts
+#EXTVLCOPT:http-user-agent=FreeIPTV(1) LibVLC/3.0.0-git 
+#EXTINF:-1, BeINSPORTS 10 HD
+http://tv.primatv.club:8899/live/prima10simo2/freetv2/736.ts
+#EXTVLCOPT:http-user-agent=FreeIPTV(1) LibVLC/3.0.0-git 
+#EXTINF:-1, BeINSPORTS 10 SD
+http://tv.primatv.club:8899/live/prima10simo2/freetv2/735.ts
+#EXTVLCOPT:http-user-agent=FreeIPTV(1) LibVLC/3.0.0-git 
+#EXTINF:-1, BeINSPORTS 11 HD
+http://tv.primatv.club:8899/live/prima10simo2/freetv2/734.ts
+#EXTVLCOPT:http-user-agent=FreeIPTV(1) LibVLC/3.0.0-git 
+#EXTINF:-1, beINSPORTS 12 HD
+http://tv.primatv.club:8899/live/prima10simo2/freetv2/733.ts
+#EXTVLCOPT:http-user-agent=FreeIPTV(1) LibVLC/3.0.0-git 
+..
+..
