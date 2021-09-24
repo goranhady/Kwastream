@@ -1,41 +1,41 @@
-#EXTM3U
-#EXTINF:-1,BeInSport 1 HD (AR)
-http://live.xtreamhost.top:80/Host11059/b48b978871/13
-#EXTINF:-1,BeInSport 1 SD (AR)
-http://live.xtreamhost.top:80/Host11059/b48b978871/15998
-#EXTINF:-1,BeInSport 2 HD (AR)
-http://live.xtreamhost.top:80/Host11059/b48b978871/14
-#EXTINF:-1,BeInSport 2 SD (AR)
-http://live.xtreamhost.top:80/Host11059/b48b978871/15999
-#EXTINF:-1,BeInSport 3 HD (AR)
-http://live.xtreamhost.top:80/Host11059/b48b978871/15
-#EXTINF:-1,BeInSport 3 SD (AR)
-http://live.xtreamhost.top:80/Host11059/b48b978871/16000
-#EXTINF:-1,BeInSport 4 HD (AR)
-http://live.xtreamhost.top:80/Host11059/b48b978871/16
-#EXTINF:-1,BeInSport 4 SD (AR)
-http://live.xtreamhost.top:80/Host11059/b48b978871/16001
-#EXTINF:-1,BeInSport 5 HD (AR)
-http://live.xtreamhost.top:80/Host11059/b48b978871/17
-#EXTINF:-1,BeInSport 5 SD (AR)
-http://live.xtreamhost.top:80/Host11059/b48b978871/16002
-#EXTINF:-1,BeInSport 6 HD (AR)
-http://live.xtreamhost.top:80/Host11059/b48b978871/18
-#EXTINF:-1,BeInSport 6 SD (AR)
-http://live.xtreamhost.top:80/Host11059/b48b978871/16003
-#EXTINF:-1,BeInSport 7 HD (AR)
-http://live.xtreamhost.top:80/Host11059/b48b978871/19
-#EXTINF:-1,BeInSport 7 SD (AR)
-http://live.xtreamhost.top:80/Host11059/b48b978871/16004
-#EXTINF:-1,BeInSport 8 HD (AR)
-http://live.xtreamhost.top:80/Host11059/b48b978871/20
-#EXTINF:-1,BeInSport 8 SD (AR)
-http://live.xtreamhost.top:80/Host11059/b48b978871/16005
-#EXTINF:-1,BeInSport 9 HD (AR)
-http://live.xtreamhost.top:80/Host11059/b48b978871/21
-#EXTINF:-1,BeInSport 9 SD (AR)
-http://live.xtreamhost.top:80/Host11059/b48b978871/16006
-#EXTINF:-1,BeInSport 10 HD (AR)
-http://live.xtreamhost.top:80/Host11059/b48b978871/22
-#EXTINF:-1,BeInSport 10 SD (AR)
-http://live.xtreamhost.top:80/Host11059/b48b978871/16007
+EXTM3U
+#EXTINF:-1,beIN Sport 1 Premium HD
+http://iptvhere.xyz:8080/exodiadlna/exodiadlna/2
+#EXTINF:-1,beIN Sport 2 Premium HD
+http://iptvhere.xyz:8080/exodiadlna/exodiadlna/3
+#EXTINF:-1,beIN Sports 3 Premium HD
+http://iptvhere.xyz:8080/exodiadlna/exodiadlna/4
+#EXTINF:-1,beIN Sports 1 HD
+http://iptvhere.xyz:8080/exodiadlna/exodiadlna/5
+#EXTINF:-1,beIN Sports 2 HD
+http://iptvhere.xyz:8080/exodiadlna/exodiadlna/6
+#EXTINF:-1,beIN Sports 3 HD
+http://iptvhere.xyz:8080/exodiadlna/exodiadlna/7
+#EXTINF:-1,beIN Sports 4 HD
+http://iptvhere.xyz:8080/exodiadlna/exodiadlna/8
+#EXTINF:-1,beIN Sport HD 5
+http://iptvhere.xyz:8080/exodiadlna/exodiadlna/9
+#EXTINF:-1,beIN Sport HD 6
+http://iptvhere.xyz:8080/exodiadlna/exodiadlna/10
+#EXTINF:-1,beIN Sport HD 7
+http://iptvhere.xyz:8080/exodiadlna/exodiadlna/11
+#EXTINF:-1,beIN Sport 1 Premium SD
+http://iptvhere.xyz:8080/exodiadlna/exodiadlna/12
+#EXTINF:-1,beIN Sport 2 Premium SD
+http://iptvhere.xyz:8080/exodiadlna/exodiadlna/13
+#EXTINF:-1,beIN Sport 3 Premium SD
+http://iptvhere.xyz:8080/exodiadlna/exodiadlna/14
+#EXTINF:-1,beIN Sports 1 SD
+http://iptvhere.xyz:8080/exodiadlna/exodiadlna/15
+#EXTINF:-1,bein Sport 3 SD
+http://iptvhere.xyz:8080/exodiadlna/exodiadlna/17
+#EXTINF:-1,beIN Sport SD 4
+http://iptvhere.xyz:8080/exodiadlna/exodiadlna/18
+#EXTINF:-1,beIN Sport SD 5
+http://iptvhere.xyz:8080/exodiadlna/exodiadlna/19
+#EXTINF:-1,beIN Sport SD 6
+http://iptvhere.xyz:8080/exodiadlna/exodiadlna/20
+#EXTINF:-1,beIN Sport SD 7
+http://iptvhere.xyz:8080/exodiadlna/exodiadlna/21
+#EXTINF:-1,beIN Sports 2 SD
+http://iptvhere.xyz:8080/exodiadlna/exodiadlna/16
