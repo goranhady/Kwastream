@@ -1,3 +1,46 @@
-#EXTM3U
-#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Sport",BEIN SPORTS 1 4K - UHD
-http://ip.sltv.be:8080/EmrahAfc08/kRmFzzNbsU/269994?checkedby:iptvcat.com
+EXTM3U
+#EXTINF:-1,BEIN SPORT 1 HD PREMIUM
+#EXTVLCOPT:http-user-agent=Yyeuyeyeyye
+http://ricoootv.xyz:8080/beinsportsgjdjdjjjjh/beinsportshdhdhhdh/1
+#EXTINF:-1,BEIN SPORT 2 HD PREMIUM
+#EXTVLCOPT:http-user-agent=Yyeuyeyeyye
+http://ricoootv.xyz:8080/beinsportsgjdjdjjjjh/beinsportshdhdhhdh/2
+#EXTINF:-1,BEIN SPORT 3 HD PREMIUM
+#EXTVLCOPT:http-user-agent=Yyeuyeyeyye
+http://ricoootv.xyz:8080/beinsportsgjdjdjjjjh/beinsportshdhdhhdh/3
+#EXTINF:-1,BEIN SPORT 1 HD
+#EXTVLCOPT:http-user-agent=Yyeuyeyeyye
+http://ricoootv.xyz:8080/beinsportsgjdjdjjjjh/beinsportshdhdhhdh/4
+#EXTINF:-1,BEIN SPORT 2 HD
+#EXTVLCOPT:http-user-agent=Yyeuyeyeyye
+http://ricoootv.xyz:8080/beinsportsgjdjdjjjjh/beinsportshdhdhhdh/5
+#EXTINF:-1,BEIN SPORT 3 HD
+#EXTVLCOPT:http-user-agent=Yyeuyeyeyye
+http://ricoootv.xyz:8080/beinsportsgjdjdjjjjh/beinsportshdhdhhdh/6
+#EXTINF:-1,BEIN SPORT 5 HD
+#EXTVLCOPT:http-user-agent=Yyeuyeyeyye
+http://ricoootv.xyz:8080/beinsportsgjdjdjjjjh/beinsportshdhdhhdh/8
+#EXTINF:-1,BEIN SPORT 6 HD
+#EXTVLCOPT:http-user-agent=Yyeuyeyeyye
+http://ricoootv.xyz:8080/beinsportsgjdjdjjjjh/beinsportshdhdhhdh/9
+#EXTINF:-1,BEIN SPORT 7 HD
+#EXTVLCOPT:http-user-agent=Yyeuyeyeyye
+http://ricoootv.xyz:8080/beinsportsgjdjdjjjjh/beinsportshdhdhhdh/10
+#EXTINF:-1,BEIN SPORT 4 HD
+#EXTVLCOPT:http-user-agent=Yyeuyeyeyye
+http://ricoootv.xyz:8080/beinsportsgjdjdjjjjh/beinsportshdhdhhdh/7
+#EXTINF:-1,bein sport usa
+#EXTVLCOPT:http-user-agent=Yyeuyeyeyye
+http://ricoootv.xyz:8080/beinsportsgjdjdjjjjh/beinsportshdhdhhdh/84
+#EXTINF:-1,beinsport sd news
+#EXTVLCOPT:http-user-agent=Yyeuyeyeyye
+http://ricoootv.xyz:8080/beinsportsgjdjdjjjjh/beinsportshdhdhhdh/90
+#EXTINF:-1,Halow sport
+#EXTVLCOPT:http-user-agent=Yyeuyeyeyye
+http://ricoootv.xyz:8080/beinsportsgjdjdjjjjh/beinsportshdhdhhdh/423
+#EXTINF:-1,BEIN XTRA 1
+#EXTVLCOPT:http-user-agent=Yyeuyeyeyye
+http://ricoootv.xyz:8080/beinsportsgjdjdjjjjh/beinsportshdhdhhdh/424
+#EXTINF:-1,BEIN XTRA 2
+#EXTVLCOPT:http-user-agent=Yyeuyeyeyye
+http://ricoootv.xyz:8080/beinsportsgjdjdjjjjh/beinsportshdhdhhdh/425
