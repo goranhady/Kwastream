@@ -1,52 +1,93 @@
-EXTM3U
-#PLAYLIST:dailyfreeiptvlist.com
-#EXTINF:0 tvg-country="undefined" tvg-logo="https://dailyfreeiptvlist.com/no" group-title="undefined",STORTINGET HD
-http://rv.therevenge.co:80/565656/565656/82814?checkedby:dailyfreeiptvlist.com
-#EXTINF:0 tvg-country="undefined" tvg-logo="https://dailyfreeiptvlist.com/no" group-title="undefined",STORTINGET HD
-http://rv.therevenge.co:80/live/242424/242424/82814.m3u8?checkedby:dailyfreeiptvlist.com
-#EXTINF:0 tvg-country="undefined" tvg-logo="https://dailyfreeiptvlist.com/no" group-title="undefined",STORTINGET HD
-http://rv.therevenge.co:80/live/11223344/11223344/82814.m3u8?checkedby:dailyfreeiptvlist.com
-#EXTINF:0 tvg-country="undefined" tvg-logo="https://dailyfreeiptvlist.com/no" group-title="undefined",STORTINGET HD
-http://zn.myseries.xyz:8080/suayip/suayip1234/64317?checkedby:dailyfreeiptvlist.com
-#EXTINF:0 tvg-country="undefined" tvg-logo="https://dailyfreeiptvlist.com/no" group-title="undefined",Stortinget
-http://flash0.19333-live0.dna.qbrick.com:1935/19333-live0/push-stortinget_1/playlist.m3u8?checkedby:dailyfreeiptvlist.com
-#EXTINF:0 tvg-country="undefined" tvg-logo="https://dailyfreeiptvlist.com/no" group-title="undefined",TLC FHD
-http://rv.therevenge.co:80/565656/565656/82796?checkedby:dailyfreeiptvlist.com
-#EXTINF:0 tvg-country="undefined" tvg-logo="https://dailyfreeiptvlist.com/no" group-title="undefined",TLC FHD
-http://rv.therevenge.co:80/live/242424/242424/82796.m3u8?checkedby:dailyfreeiptvlist.com
-#EXTINF:0 tvg-country="undefined" tvg-logo="https://dailyfreeiptvlist.com/no" group-title="undefined",TLC FHD
-http://185.71.64.167:80/307245103371/307245103371/82796?checkedby:dailyfreeiptvlist.com
-#EXTINF:0 tvg-country="undefined" tvg-logo="https://dailyfreeiptvlist.com/no" group-title="undefined",TLC FHD
-http://rv.imax.re:80/5124037472/1572081885/82796?checkedby:dailyfreeiptvlist.com
-#EXTINF:0 tvg-country="undefined" tvg-logo="https://dailyfreeiptvlist.com/no" group-title="undefined",TV 2 SPORT 2 NORWAY
-http://rv.imax.re:80/5124037472/1572081885/82755?checkedby:dailyfreeiptvlist.com
-#EXTINF:0 tvg-country="undefined" tvg-logo="https://dailyfreeiptvlist.com/no" group-title="undefined",TV NORGE FHD
-http://rv.therevenge.co:80/565656/565656/82812?checkedby:dailyfreeiptvlist.com
-#EXTINF:0 tvg-country="undefined" tvg-logo="https://dailyfreeiptvlist.com/no" group-title="undefined",TV NORGE FHD
-http://rv.therevenge.co:80/live/11223344/11223344/82812.m3u8?checkedby:dailyfreeiptvlist.com
-#EXTINF:0 tvg-country="undefined" tvg-logo="https://dailyfreeiptvlist.com/no" group-title="undefined",TV NORGE FHD
-http://rv.therevenge.co:80/live/242424/242424/82812.m3u8?checkedby:dailyfreeiptvlist.com
-#EXTINF:0 tvg-country="undefined" tvg-logo="https://dailyfreeiptvlist.com/no" group-title="undefined",TV NORGE FHD
-http://rv.imax.re:80/5124037472/1572081885/82812?checkedby:dailyfreeiptvlist.com
-#EXTINF:0 tvg-country="undefined" tvg-logo="https://dailyfreeiptvlist.com/no" group-title="undefined",TV NORGE FHD
-http://185.71.64.167:80/307245103371/307245103371/82812?checkedby:dailyfreeiptvlist.com
-#EXTINF:0 tvg-country="undefined" tvg-logo="https://dailyfreeiptvlist.com/no" group-title="undefined",TV NORGE HD
-http://185.71.64.167:80/307245103371/307245103371/82813?checkedby:dailyfreeiptvlist.com
-#EXTINF:0 tvg-country="undefined" tvg-logo="https://dailyfreeiptvlist.com/no" group-title="undefined",TV NORGE HD
-http://zn.myseries.xyz:8080/suayip/suayip1234/64264?checkedby:dailyfreeiptvlist.com
-#EXTINF:0 tvg-country="undefined" tvg-logo="https://dailyfreeiptvlist.com/no" group-title="undefined",TV NORGE HD
-http://rv.therevenge.co:80/live/11223344/11223344/82813.m3u8?checkedby:dailyfreeiptvlist.com
-#EXTINF:0 tvg-country="undefined" tvg-logo="https://dailyfreeiptvlist.com/no" group-title="undefined",TV VISJON NORGE FHD
-http://rv.therevenge.co:80/565656/565656/82811?checkedby:dailyfreeiptvlist.com
-#EXTINF:0 tvg-country="undefined" tvg-logo="https://dailyfreeiptvlist.com/no" group-title="undefined",TV VISJON NORGE FHD
-http://185.71.64.167:80/307245103371/307245103371/82811?checkedby:dailyfreeiptvlist.com
-#EXTINF:0 tvg-country="undefined" tvg-logo="https://dailyfreeiptvlist.com/no" group-title="undefined",TV VISJON NORGE FHD
-http://rv.therevenge.co:80/live/11223344/11223344/82811.m3u8?checkedby:dailyfreeiptvlist.com
-#EXTINF:0 tvg-country="undefined" tvg-logo="https://dailyfreeiptvlist.com/no" group-title="undefined",TV VISJON NORGE FHD
-http://rv.therevenge.co:80/live/242424/242424/82811.m3u8?checkedby:dailyfreeiptvlist.com
-#EXTINF:0 tvg-country="undefined" tvg-logo="https://dailyfreeiptvlist.com/no" group-title="undefined",TV VISJON NORGE HD
-http://zn.myseries.xyz:8080/suayip/suayip1234/64285?checkedby:dailyfreeiptvlist.com
-#EXTINF:0 tvg-country="undefined" tvg-logo="https://dailyfreeiptvlist.com/no" group-title="undefined",TV2 LIVSSTIL HD
-http://185.71.64.167:80/307245103371/307245103371/82810?checkedby:dailyfreeiptvlist.com
-#EXTINF:0 tvg-country="undefined" tvg-logo="https://dailyfreeiptvlist.com/no" group-title="undefined",TV2 LIVSSTIL HD
-http://rv.therevenge.co:80/live/11223344/11223344/82810.m3u8?checkedby:dailyfreeiptvlist.com
+#EXTM3U
+#EXTINF:-1,BeinSportHD1
+http://ip4utv.cf:8898/DIMAKOORA/nt7vU57Txa/14297
+#EXTINF:-1,BeinSportHD2
+http://ip4utv.cf:8898/DIMAKOORA/nt7vU57Txa/14296
+#EXTINF:-1,BeinSport HD3
+http://ip4utv.cf:8898/DIMAKOORA/nt7vU57Txa/14295
+#EXTINF:-1,BeinSport HD4
+http://ip4utv.cf:8898/DIMAKOORA/nt7vU57Txa/14294
+#EXTINF:-1,BeinSport HD5
+http://ip4utv.cf:8898/DIMAKOORA/nt7vU57Txa/14293
+#EXTINF:-1,BeinSport HD6
+http://ip4utv.cf:8898/DIMAKOORA/nt7vU57Txa/14292
+#EXTINF:-1,BeinSport HD7
+http://ip4utv.cf:8898/DIMAKOORA/nt7vU57Txa/14291
+#EXTINF:-1,BeinSport HD8
+http://ip4utv.cf:8898/DIMAKOORA/nt7vU57Txa/14290
+#EXTINF:-1,BeinSport HD9
+http://ip4utv.cf:8898/DIMAKOORA/nt7vU57Txa/14289
+#EXTINF:-1,BeinSport HD10
+http://ip4utv.cf:8898/DIMAKOORA/nt7vU57Txa/14288
+#EXTINF:-1,BeinSport: beIN FHD1 (hevc)
+http://ip4utv.cf:8898/DIMAKOORA/nt7vU57Txa/18095
+#EXTINF:-1,BeinSport: beIN FHD2 (hevc)
+http://ip4utv.cf:8898/DIMAKOORA/nt7vU57Txa/18094
+#EXTINF:-1,BeinSport: beIN FHD3 (hevc)
+http://ip4utv.cf:8898/DIMAKOORA/nt7vU57Txa/18093
+#EXTINF:-1,BeinSport: beIN FHD4 (hevc)
+http://ip4utv.cf:8898/DIMAKOORA/nt7vU57Txa/18092
+#EXTINF:-1,BeinSport: beIN FHD5 (hevc)
+http://ip4utv.cf:8898/DIMAKOORA/nt7vU57Txa/18091
+#EXTINF:-1,BeinSport: beIN FHD6 (hevc)
+http://ip4utv.cf:8898/DIMAKOORA/nt7vU57Txa/18090
+#EXTINF:-1,BeinSport: beIN FHD7 (hevc)
+http://ip4utv.cf:8898/DIMAKOORA/nt7vU57Txa/18089
+#EXTINF:-1,BeinSport: beIN FHD8 (hevc)
+http://ip4utv.cf:8898/DIMAKOORA/nt7vU57Txa/18088
+#EXTINF:-1,BeinSport: beIN FHD9 (hevc)
+http://ip4utv.cf:8898/DIMAKOORA/nt7vU57Txa/18087
+#EXTINF:-1,BeinSport: beIN FHD10 (hevc)
+http://ip4utv.cf:8898/DIMAKOORA/nt7vU57Txa/18086
+#EXTINF:-1,===== BEIN SPORT (Another Source)=====
+http://ip4utv.cf:8898/DIMAKOORA/nt7vU57Txa/12057
+#EXTINF:-1,BeIN Sport 1HQ
+http://ip4utv.cf:8898/DIMAKOORA/nt7vU57Txa/11466
+#EXTINF:-1,BeiN Sport 2HQ
+http://ip4utv.cf:8898/DIMAKOORA/nt7vU57Txa/11467
+#EXTINF:-1,BeiN Sport 3HQ
+http://ip4utv.cf:8898/DIMAKOORA/nt7vU57Txa/11468
+#EXTINF:-1,BeiN Sport 4HQ
+http://ip4utv.cf:8898/DIMAKOORA/nt7vU57Txa/11469
+#EXTINF:-1,BeiN Sport 5HQ
+http://ip4utv.cf:8898/DIMAKOORA/nt7vU57Txa/11470
+#EXTINF:-1,BeiN Sport 6HQ
+http://ip4utv.cf:8898/DIMAKOORA/nt7vU57Txa/11471
+#EXTINF:-1,BeiN Sport 7HQ
+http://ip4utv.cf:8898/DIMAKOORA/nt7vU57Txa/11472
+#EXTINF:-1,BeiN Sport 8HQ
+http://ip4utv.cf:8898/DIMAKOORA/nt7vU57Txa/11473
+#EXTINF:-1,BeiN Sport 9HQ
+http://ip4utv.cf:8898/DIMAKOORA/nt7vU57Txa/11474
+#EXTINF:-1,BeiN Sport 10HQ
+http://ip4utv.cf:8898/DIMAKOORA/nt7vU57Txa/11475
+#EXTINF:-1,===== BEIN SPORT SD=====
+http://ip4utv.cf:8898/DIMAKOORA/nt7vU57Txa/11978
+#EXTINF:-1,Bein Sport 1SD
+http://ip4utv.cf:8898/DIMAKOORA/nt7vU57Txa/11568
+#EXTINF:-1,Bein Sport 2SD
+http://ip4utv.cf:8898/DIMAKOORA/nt7vU57Txa/11569
+#EXTINF:-1,Bein Sport 3SD
+http://ip4utv.cf:8898/DIMAKOORA/nt7vU57Txa/11570
+#EXTINF:-1,Bein Sport 4SD
+http://ip4utv.cf:8898/DIMAKOORA/nt7vU57Txa/11571
+#EXTINF:-1,Bein Sport 5SD
+http://ip4utv.cf:8898/DIMAKOORA/nt7vU57Txa/11572
+#EXTINF:-1,Bein Sport 6SD
+http://ip4utv.cf:8898/DIMAKOORA/nt7vU57Txa/11573
+#EXTINF:-1,Bein Sport 7SD
+http://ip4utv.cf:8898/DIMAKOORA/nt7vU57Txa/11574
+#EXTINF:-1,Bein Sport 8SD
+http://ip4utv.cf:8898/DIMAKOORA/nt7vU57Txa/11575
+#EXTINF:-1,Bein Sport 9SD
+http://ip4utv.cf:8898/DIMAKOORA/nt7vU57Txa/11576
+#EXTINF:-1,Bein Sport 10SD
+http://ip4utv.cf:8898/DIMAKOORA/nt7vU57Txa/11577
+#EXTINF:-1,===== BEIN SPORT FR =====
+http://ip4utv.cf:8898/DIMAKOORA/nt7vU57Txa/11977
+#EXTINF:-1,Bein Sport FR 1HD
+http://ip4utv.cf:8898/DIMAKOORA/nt7vU57Txa/16375
+#EXTINF:-1,Bein Sport FR 2HD
+http://ip4utv.cf:8898/DIMAKOORA/nt7vU57Txa/11482
+#EXTINF:-1,Bein Sport FR 3HD
+http://ip4utv.cf:8898/DIMAKOORA/nt7vU57Txa/11484\
