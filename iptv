@@ -1,93 +1,102 @@
 #EXTM3U
-#EXTINF:0,SPORTS 1 HD
-http://evdibac.com:80/307200112733/307200112733/78617
-#EXTINF:0,SPORTS 1 SD
-http://evdibac.com:80/307200112733/307200112733/78580
-#EXTINF:0,SPORTS 2 HD
-http://evdibac.com:80/307200112733/307200112733/78616
-#EXTINF:0,SPORTS 2 SD
-http://evdibac.com:80/307200112733/307200112733/78579
-#EXTINF:0,SPORTS 2 HD≤
-http://evdibac.com:80/307200112733/307200112733/78599
-#EXTINF:0,SPORTS 3 HD
-http://evdibac.com:80/307200112733/307200112733/78615
-#EXTINF:0,SPORTS 3 SD
-http://evdibac.com:80/307200112733/307200112733/78578
-#EXTINF:0,SPORTS 3 HD≤
-http://evdibac.com:80/307200112733/307200112733/78598
-#EXTINF:0,SPORTS 4 HD
-http://evdibac.com:80/307200112733/307200112733/78614
-#EXTINF:0,SPORTS 4 SD
-http://evdibac.com:80/307200112733/307200112733/78577
-#EXTINF:0,SPORTS 4 HD≤
-http://evdibac.com:80/307200112733/307200112733/78597
-#EXTINF:0,SPORTS 5 HD
-http://evdibac.com:80/307200112733/307200112733/78613
-#EXTINF:0,SPORTS 5 SD
-http://evdibac.com:80/307200112733/307200112733/78576
-#EXTINF:0,SPORTS 5 HD≤
-http://evdibac.com:80/307200112733/307200112733/78596
-#EXTINF:0,SPORTS 6 HD
-http://evdibac.com:80/307200112733/307200112733/78612
-#EXTINF:0,SPORTS 6 SD
-http://evdibac.com:80/307200112733/307200112733/78575
-#EXTINF:0,SPORTS 6 HD≤
-http://evdibac.com:80/307200112733/307200112733/78595
-#EXTINF:0,SPORTS 7 HD
-http://evdibac.com:80/307200112733/307200112733/78611
-#EXTINF:0,SPORTS 7 SD
-http://evdibac.com:80/307200112733/307200112733/78574
-#EXTINF:0,SPORTS 7 HD≤
-http://evdibac.com:80/307200112733/307200112733/78594
-#EXTINF:0,SPORTS 8 HD
-http://evdibac.com:80/307200112733/307200112733/78610
-#EXTINF:0,SPORTS 8 SD
-http://evdibac.com:80/307200112733/307200112733/78573
-#EXTINF:0,SPORTS 8 HD≤
-http://evdibac.com:80/307200112733/307200112733/78593
-#EXTINF:0,SPORTS 9 HD
-http://evdibac.com:80/307200112733/307200112733/78609
-#EXTINF:0,SPORTS 9 SD
-http://evdibac.com:80/307200112733/307200112733/78572
-#EXTINF:0,SPORTS 9 HD≤
-http://evdibac.com:80/307200112733/307200112733/78592
-#EXTINF:0,SPORTS 10 HD OLYMPIC
-http://evdibac.com:80/307200112733/307200112733/78608
-#EXTINF:0,SPORTS 10 SD OLYMPIC
-http://evdibac.com:80/307200112733/307200112733/78571
-#EXTINF:0,SPORTS 10 HD≤
-http://evdibac.com:80/307200112733/307200112733/78591
-#EXTINF:0,SPORTS 11 HD EN
-http://evdibac.com:80/307200112733/307200112733/78607
-#EXTINF:0,SPORTS 11 SD
-http://evdibac.com:80/307200112733/307200112733/78570
-#EXTINF:0,SPORTS 11 HD≤
-http://evdibac.com:80/307200112733/307200112733/78590
-#EXTINF:0,SPORTS 12 HD EN
-http://evdibac.com:80/307200112733/307200112733/78606
-#EXTINF:0,SPORTS 12 SD
-http://evdibac.com:80/307200112733/307200112733/78569
-#EXTINF:0,SPORTS 12 HD≤
-http://evdibac.com:80/307200112733/307200112733/78589
-#EXTINF:0,SPORTS 13 HD
-http://evdibac.com:80/307200112733/307200112733/78605
-#EXTINF:0,SPORTS 13 SD
-http://evdibac.com:80/307200112733/307200112733/78568
-#EXTINF:0,SPORTS 13 HD≤
-http://evdibac.com:80/307200112733/307200112733/78588
-#EXTINF:0,SPORTS 14 HD
-http://evdibac.com:80/307200112733/307200112733/78604
-#EXTINF:0,SPORTS 14 SD
-http://evdibac.com:80/307200112733/307200112733/78567
-#EXTINF:0,SPORTS 15 HD
-http://evdibac.com:80/307200112733/307200112733/78603
-#EXTINF:0,SPORTS 15 SD
-http://evdibac.com:80/307200112733/307200112733/78566
-#EXTINF:0,SPORTS 16 HD
-http://evdibac.com:80/307200112733/307200112733/78602
-#EXTINF:0,SPORTS 16 SD
-http://evdibac.com:80/307200112733/307200112733/78565
-#EXTINF:0,SPORTS NBA HD
-http://evdibac.com:80/307200112733/307200112733/78619
-#EXTINF:0,SPORTS NBA SD
-http://evdibac.com:80/307200112733/307200112733/78581
+
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+#EXTINF:-1,BEIN SPORTS 1
+http://95.170.215.120/hls/m3u8/Bein-Sport-HD1.m3u8
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+#EXTINF:-1,BEIN SPORTS 2
+http://95.170.215.120/hls/m3u8/Bein-Sport-HD2.m3u8
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+#EXTINF:-1,BEIN SPORTS 3
+http://95.170.215.120/hls/m3u8/Bein-Sport-HD3.m3u8
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+#EXTINF:-1,BEIN SPORTS 4
+http://95.170.215.120/hls/m3u8/Bein-Sport-HD4.m3u8
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+#EXTINF:-1,BEIN SPORTS 5
+http://95.170.215.120/hls/m3u8/Bein-Sport-HD5.m3u8
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+#EXTINF:-1,BEIN SPORTS 6
+http://95.170.215.120/hls/m3u8/Bein-Sport-HD6.m3u8
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+#EXTINF:-1,BEIN SPORTS 7
+http://95.170.215.120/hls/m3u8/Bein-Sport-HD7.m3u8
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+#EXTINF:-1,BEIN SPORTS 8
+http://95.170.215.120/hls/m3u8/Bein-Sport-HD8.m3u8
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+#EXTINF:-1,BEIN SPORTS 9
+http://95.170.215.120/hls/m3u8/Bein-Sport-HD9.m3u8
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+#EXTINF:-1,BEIN SPORTS 10
+http://95.170.215.120/hls/m3u8/Bein-Sport-HD10.m3u8
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+#EXTINF:-1,BEIN SPORTS 11
+http://95.170.215.120/hls/m3u8/Bein-Sport-HD11.m3u8
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+#EXTINF:-1,BEIN SPORTS 12
+http://95.170.215.120/hls/m3u8/Bein-Sport-HD12.m3u8
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+#EXTINF:-1,BEIN SPORTS 13
+http://95.170.215.120/hls/m3u8/Bein-Sport-HD13.m3u8
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+#EXTINF:-1,BEIN SPORTS 14
+http://95.170.215.120/hls/m3u8/Bein-Sport-HD14.m3u8
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+#EXTINF:-1,BEIN SPORTS 15
+http://95.170.215.120/hls/m3u8/Bein-Sport-HD15.m3u8
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+#EXTINF:-1,BEIN SPORTS 16
+http://95.170.215.120/hls/m3u8/Bein-Sport-HD16.m3u8
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+#EXTINF:-1,BEIN SPORTS 17
+http://95.170.215.120/hls/m3u8/Bein-Sport-HD17.m3u8
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+#EXTINF:-1,BEIN SPORTS NBA
+http://95.170.215.120/hls/m3u8/Bein-Sport-NBA.m3u8
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+
+#EXTINF:-1,AD-Sport-HD4
+http://95.170.215.120/hls/m3u8/AD-Sport-HD4.m3u8
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+#EXTINF:-1,AD-Sport-HD3
+http://95.170.215.118/hls/m3u8/AD-Sport-HD3.m3u8
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+#EXTINF:-1,Tivibu-sport-1
+http://95.170.215.120/hls/m3u8/Tivibu-sport-1.m3u8
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+#EXTINF:-1,Tivibu-sport-2
+http://95.170.215.120/hls/m3u8/Tivibu-sport-2.m3u8
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+#EXTINF:-1,Tivibu-sport-3
+http://95.170.215.120/hls/m3u8/Tivibu-sport-3.m3u8
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+#EXTINF:-1,Tivibu-sport-4
+http://95.170.215.120/hls/m3u8/Tivibu-sport-4.m3u8
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+#EXTINF:-1,Aso-Sport
+http://95.170.215.118/hls/m3u8/Aso-Sport.m3u8
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+#EXTINF:-1,sport2
+http://tv.utv-live.com:1935/2020/sport2/playlist.m3u8
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+#EXTINF:-1,sport1
+http://tv.utv-live.com:1935/2020/sport1/playlist.m3u8
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+#EXTINF:-1,sport3
+http://tv.utv-live.com:1935/2020/sport3/playlist.m3u8
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+#EXTINF:-1,Alfajertv
+http://vstream3.hadara.ps:8081/AlfajertvUN_web/web/chunks.m3u8
+#EXTVLCOPT:http-user-agent=tvkeyfi.apqnf/9.1 (Linux;Android 4.4.2) ExoPlayerLib/2.8.4
+#EXTINF:-1,TR Bein_Sports1
+http://185-8-178-138.livesports24.online/bsporttur1.m3u8
+#EXTVLCOPT:http-user-agent=tvkeyfi.apqnf/9.1 (Linux;Android 4.4.2) ExoPlayerLib/2.8.4
+#EXTINF:-1,TR Bein_Sports2
+http://185-8-178-139.livesports24.online/turbein2.m3u8
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+#EXTINF:-1,Bein-Sport-News
+http://95.170.215.120/hls/m3u8/Bein-Sport-News.m3u8
+#EXTVLCOPT:http-user-agent=mode
+#EXTINF:-1,BeinMax1HD
+http://sport.genius-stream.com/GeniusStreamAPK/BeinMax1HD.m3u8
