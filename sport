@@ -1,25 +1,119 @@
 #EXTM3U
-#EXTINF:-1,DEPORTE_HD: BEIN SPORTS  ñ
-http://iptv.dns-extreme.info:25461/victorest/qwerty123/5650
-#EXTINF:-1,DEPORTE_HD: BEIN SPORTS 1
-http://iptv.dns-extreme.info:25461/victorest/qwerty123/5649
-#EXTINF:-1,DEPORTE_HD: BEIN SPORTS 10
-http://iptv.dns-extreme.info:25461/victorest/qwerty123/5638
-#EXTINF:-1,DEPORTE_HD: BEIN SPORTS 11
-http://iptv.dns-extreme.info:25461/victorest/qwerty123/5648
-#EXTINF:-1,DEPORTE_HD: BEIN SPORTS 2
-http://iptv.dns-extreme.info:25461/victorest/qwerty123/5647
-#EXTINF:-1,DEPORTE_HD: BEIN SPORTS 3
-http://iptv.dns-extreme.info:25461/victorest/qwerty123/5645
-#EXTINF:-1,DEPORTE_HD: BEIN SPORTS 4
-http://iptv.dns-extreme.info:25461/victorest/qwerty123/5644
-#EXTINF:-1,DEPORTE_HD: BEIN SPORTS 5
-http://iptv.dns-extreme.info:25461/victorest/qwerty123/5643
-#EXTINF:-1,DEPORTE_HD: BEIN SPORTS 6
-http://iptv.dns-extreme.info:25461/victorest/qwerty123/5642
-#EXTINF:-1,DEPORTE_HD: BEIN SPORTS 7
-http://iptv.dns-extreme.info:25461/victorest/qwerty123/5641
-#EXTINF:-1,DEPORTE_HD: BEIN SPORTS 8
-http://iptv.dns-extreme.info:25461/victorest/qwerty123/5640
-#EXTINF:-1,DEPORTE_HD: BEIN SPORTS 9
-http://iptv.dns-extreme.info:25461/victorest/qwerty123/5639
+#EXTINF:-1,NO:  TV2 SPORT PREMIUM  HD VIP
+http://www.pandar.tv:25461/ball/ball/28877
+#EXTINF:-1,NO:  TV2 SPORT PREMIUM 2 HD VIP
+http://www.pandar.tv:25461/ball/ball/28876
+#EXTINF:-1,NO:  VIASPORT PLUS  HD VIP
+http://www.pandar.tv:25461/ball/ball/28875
+#EXTINF:-1,NO: Animal Planet FHD
+http://www.pandar.tv:25461/ball/ball/28874
+#EXTINF:-1,NO: BBC Brit FHD
+http://www.pandar.tv:25461/ball/ball/28873
+#EXTINF:-1,NO: BBC Earth HD
+http://www.pandar.tv:25461/ball/ball/28872
+#EXTINF:-1,NO: Boomerang
+http://www.pandar.tv:25461/ball/ball/28871
+#EXTINF:-1,NO: C More First FHD
+http://www.pandar.tv:25461/ball/ball/28870
+#EXTINF:-1,NO: C More Hits FHD
+http://www.pandar.tv:25461/ball/ball/28869
+#EXTINF:-1,NO: C More Series FHD
+http://www.pandar.tv:25461/ball/ball/28868
+#EXTINF:-1,NO: C More Stars FHD
+http://www.pandar.tv:25461/ball/ball/28867
+#EXTINF:-1,NO: Comedy Central
+http://www.pandar.tv:25461/ball/ball/28866
+#EXTINF:-1,NO: Discovery Channel FHD
+http://www.pandar.tv:25461/ball/ball/28865
+#EXTINF:-1,NO: Discovery Science
+http://www.pandar.tv:25461/ball/ball/28864
+#EXTINF:-1,NO: Discovery World
+http://www.pandar.tv:25461/ball/ball/28863
+#EXTINF:-1,NO: Disney Channel
+http://www.pandar.tv:25461/ball/ball/28862
+#EXTINF:-1,NO: Disney XD
+http://www.pandar.tv:25461/ball/ball/28861
+#EXTINF:-1,NO: E! Entertainment TV
+http://www.pandar.tv:25461/ball/ball/28860
+#EXTINF:-1,NO: Eurosport 1 HD
+http://www.pandar.tv:25461/ball/ball/28859
+#EXTINF:-1,NO: Eurosport 2 FHD
+http://www.pandar.tv:25461/ball/ball/28858
+#EXTINF:-1,NO: Eurosport N FHD
+http://www.pandar.tv:25461/ball/ball/28857
+#EXTINF:-1,NO: Eurosport Pluss 1 HD
+http://www.pandar.tv:25461/ball/ball/28856
+#EXTINF:-1,NO: Eurosport Pluss 2 HD
+http://www.pandar.tv:25461/ball/ball/28855
+#EXTINF:-1,NO: Eurosport Pluss 3 HD
+http://www.pandar.tv:25461/ball/ball/28854
+#EXTINF:-1,NO: Eurosport Pluss 4 HD
+http://www.pandar.tv:25461/ball/ball/28853
+#EXTINF:-1,NO: Fatstone TV
+http://www.pandar.tv:25461/ball/ball/28852
+#EXTINF:-1,NO: FEM HD
+http://www.pandar.tv:25461/ball/ball/28851
+#EXTINF:-1,NO: FOX
+http://www.pandar.tv:25461/ball/ball/28850
+#EXTINF:-1,NO: FOX FHD
+http://www.pandar.tv:25461/ball/ball/28849
+#EXTINF:-1,NO: H2 FHD
+http://www.pandar.tv:25461/ball/ball/28848
+#EXTINF:-1,NO: History FHD
+http://www.pandar.tv:25461/ball/ball/28847
+#EXTINF:-1,NO: Matkanalen
+http://www.pandar.tv:25461/ball/ball/28846
+#EXTINF:-1,NO: Max FHD
+http://www.pandar.tv:25461/ball/ball/28845
+#EXTINF:-1,NO: Max HD
+http://www.pandar.tv:25461/ball/ball/28844
+#EXTINF:-1,NO: MTV HD
+http://www.pandar.tv:25461/ball/ball/28843
+#EXTINF:-1,NO: National Geographic FHD
+http://www.pandar.tv:25461/ball/ball/28842
+#EXTINF:-1,NO: National Geographic Wild HD
+http://www.pandar.tv:25461/ball/ball/28841
+#EXTINF:-1,NO: Nickelodeon
+http://www.pandar.tv:25461/ball/ball/28840
+#EXTINF:-1,NO: NickToons
+http://www.pandar.tv:25461/ball/ball/28839
+#EXTINF:-1,NO: NRK 1 HD
+http://www.pandar.tv:25461/ball/ball/28838
+#EXTINF:-1,NO: NRK 1 HD (B)
+http://www.pandar.tv:25461/ball/ball/28837
+#EXTINF:-1,NO: NRK 2 HD
+http://www.pandar.tv:25461/ball/ball/28836
+#EXTINF:-1,NO: NRK 3/SUPER HD
+http://www.pandar.tv:25461/ball/ball/28835
+#EXTINF:-1,NO: SF-Kanalen
+http://www.pandar.tv:25461/ball/ball/28834
+#EXTINF:-1,NO: Stortinget HD
+http://www.pandar.tv:25461/ball/ball/28833
+#EXTINF:-1,NO: TLC FHD
+http://www.pandar.tv:25461/ball/ball/28832
+#EXTINF:-1,NO: TV Norge FHD
+http://www.pandar.tv:25461/ball/ball/28831
+#EXTINF:-1,NO: TV Norge HD
+http://www.pandar.tv:25461/ball/ball/28830
+#EXTINF:-1,NO: TV Visjon Norge FHD
+http://www.pandar.tv:25461/ball/ball/28829
+#EXTINF:-1,NO: TV2 Humor HD
+http://www.pandar.tv:25461/ball/ball/28828
+#EXTINF:-1,NO: TV2 Livsstil HD
+http://www.pandar.tv:25461/ball/ball/28827
+#EXTINF:-1,NO: TV2 Norge
+http://www.pandar.tv:25461/ball/ball/28826
+#EXTINF:-1,NO: TV2 Norge HD
+http://www.pandar.tv:25461/ball/ball/28825
+#EXTINF:-1,NO: TV2 Nyhetskanalen FHD
+http://www.pandar.tv:25461/ball/ball/28824
+#EXTINF:-1,NO: TV2 Sportkanalen HD
+http://www.pandar.tv:25461/ball/ball/28823
+#EXTINF:-1,NO: TV2 Zebra FHD
+http://www.pandar.tv:25461/ball/ball/28822
+#EXTINF:-1,NO: TV2 Zebra HD
+http://www.pandar.tv:25461/ball/ball/28821
+#EXTINF:-1,NO: TV3 FHD
+http://www.pandar.tv:25461/ball/ball/28820
+#EXTINF:-1,NO: TV6
+http://www.pandar.tv:25461/ball/ball/28819
