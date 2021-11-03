@@ -1,202 +1,25 @@
-EXTM3U
-#PLAYLIST:iptvcat.com
-#EXTINF:0 tvg-country="AF" tvg-logo="" group-title="Sport",Ads sport cricket,RTA Sport (New!)
-http://212.47.252.54/hls/stream.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="AL" tvg-logo="http://127.0.0.1/" group-title="Sport",RTSH Sport
-http://79.106.48.2/live/rtsh_sport_ott_p3/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="AR" tvg-logo="" group-title="Sport",BEIN Sports NEWS HD
-http://212.38.189.9:25461/live/colin/colin/73063.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="AR" tvg-logo="" group-title="Sport",BEIN Sports NEWS HD
-http://212.38.189.9:25461/live/colin/colin/75441.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="AR" tvg-logo="" group-title="Sport",Bein Sports 1 HD
-http://212.38.189.9:25461/live/colin/colin/73051.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="AR" tvg-logo="" group-title="Sport",Bein Sports 10 HD
-http://212.38.189.9:25461/live/colin/colin/73052.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="AR" tvg-logo="" group-title="Sport",Bein Sports 11 HD
-http://212.38.189.9:25461/live/colin/colin/73062.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="AR" tvg-logo="" group-title="Sport",Bein Sports 12 HD
-http://212.38.189.9:25461/live/colin/colin/73053.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="AR" tvg-logo="" group-title="Sport",Bein Sports 2 HD
-http://212.38.189.9:25461/live/colin/colin/73054.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="AR" tvg-logo="" group-title="Sport",Bein Sports 3 HD
-http://212.38.189.9:25461/live/colin/colin/73055.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="AR" tvg-logo="" group-title="Sport",Bein Sports 4 HD
-http://212.38.189.9:25461/live/colin/colin/73056.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="AR" tvg-logo="" group-title="Sport",Bein Sports 5 HD
-http://212.38.189.9:25461/live/colin/colin/73057.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="AR" tvg-logo="" group-title="Sport",Bein Sports 6 HD
-http://212.38.189.9:25461/live/colin/colin/73058.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="AR" tvg-logo="" group-title="Sport",Bein Sports 7 HD
-http://212.38.189.9:25461/live/colin/colin/73059.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="AR" tvg-logo="" group-title="Sport",Bein Sports 8 HD
-http://212.38.189.9:25461/live/colin/colin/73060.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="AR" tvg-logo="" group-title="Sport",Bein Sports 9 HD
-http://212.38.189.9:25461/live/colin/colin/73061.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="AR" tvg-logo="" group-title="Sport",OSN Sports Cricket
-http://212.38.189.9:25461/live/colin/colin/73068.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="AR" tvg-logo="" group-title="Sport",Tnt Sports
-http://207.38.89.242:8080/live/2993/2993/10545.ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="AR" tvg-logo="" group-title="Sport",Tyc Sports
-http://207.38.89.242:8080/live/2993/2993/9541.ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="AU" tvg-logo="https://i.imgur.com/Kxem8ae.jpg" group-title="Sport",AU | Fox Sports News,Fox Sports News
-https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master1280x720.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="AU" tvg-logo="https://i.imgur.com/Kxem8ae.jpg" group-title="Sport",Fox Sports News
-https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="AU" tvg-logo="https://i.imgur.com/1M4zMdC.png" group-title="Sport",Racing.com
-https://racingvic-i.akamaized.net/hls/live/598695/racingvic/index.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="AU" tvg-logo="https://i.imgur.com/1M4zMdC.png" group-title="Sport",Racing.com
-https://racingvic-i.akamaized.net/hls/live/598695/racingvic/628.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="AU" tvg-logo="https://i.imgur.com/1M4zMdC.png" group-title="Sport",Racing.com
-https://racingvic-i.akamaized.net/hls/live/598695/racingvic/1500.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="AT" tvg-logo="" group-title="Sport",ORF SPORTS HD
-http://212.38.189.9:25461/live/colin/colin/73112.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="AT" tvg-logo="" group-title="Sport",Sky Sport HD
-http://212.38.189.9:25461/live/colin/colin/73117.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BH" tvg-logo="https://i.imgur.com/G9BMhDS.png" group-title="Sport",Bahrain Sport 1
-http://185.105.4.106:1935/live/Bahrain%20Sports/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BH" tvg-logo="https://i.imgur.com/G9BMhDS.png" group-title="Sport",Bahrain Sport 1
-http://185.105.4.106:1935/live/Bahrain%20Sports/chunklist.m3u8?v=1558393494&checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BH" tvg-logo="https://i.imgur.com/G9BMhDS.png" group-title="Sport",Bahrain Sport 1
-http://185.105.4.106:1935/live/Bahrain%20Sports/chunklist.m3u8?v=1548640033&checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BH" tvg-logo="https://i.imgur.com/G9BMhDS.png" group-title="Sport",Bahrain Sport 2
-https://5c7b683162943.streamlock.net/live/ngrp:Bahrain%20Sports%202_all/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Sport",ALL Sport
-http://212.38.189.9:25461/live/colin/colin/73120.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Sport",ALL Sports
-https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/chunklist.m3u8?checkedby:iptvcat.com&checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="https://i.imgur.com/wULpnYR.png" group-title="Sport",ALL Sports
-https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/chunklist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Sport",Band Sports HD
-http://srv.maxptv.net:8080/BMW498/321321/221?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Sport",Band Sports SD
-http://srv.maxptv.net:8080/BMW498/321321/220?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR;ES" tvg-logo="https://i.imgur.com/2M9WfqA.jpg" group-title="Sport;Undefined",Brasil IPTV_83,Real Madrid TV (English)
-https://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hweben_1@300662/master.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Sport",ESPN
-http://212.38.189.9:25461/live/colin/colin/77660.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Sport",ESPN Brasil FHD
-http://212.38.189.9:25461/live/colin/colin/77662.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Sport",ESPN Extra HD
-http://212.38.189.9:25461/live/colin/colin/77665.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Sport",ESPN FHD
-http://212.38.189.9:25461/live/colin/colin/77666.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Sport",ESPN HD
-http://212.38.189.9:25461/live/colin/colin/77667.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Sport",Espn  2 HD
-http://srv.maxptv.net:8080/BMW498/321321/171?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Sport",Espn  2 SD
-http://srv.maxptv.net:8080/BMW498/321321/170?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Sport",Espn Brasil HD
-http://srv.maxptv.net:8080/BMW498/321321/169?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Sport",Espn Brasil SD
-http://srv.maxptv.net:8080/BMW498/321321/168?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Sport",Espn Extra  SD
-http://srv.maxptv.net:8080/BMW498/321321/164?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Sport",Espn Extra HD
-http://srv.maxptv.net:8080/BMW498/321321/165?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Sport",Espn HD
-http://srv.maxptv.net:8080/BMW498/321321/167?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Sport",Espn SD
-http://srv.maxptv.net:8080/BMW498/321321/166?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Sport",Esporte Interativo 1 HD[Somente quando há transmissão]
-http://212.38.189.9:25461/live/colin/colin/77668.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Sport",Esporte Interativo 2 HD[Somente quando há transmissão]
-http://212.38.189.9:25461/live/colin/colin/77669.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Sport",Esporte Interativo 4 HD[Somente quando há transmissão]
-http://212.38.189.9:25461/live/colin/colin/77671.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="https://i.imgur.com/k29sgDw.png" group-title="Sport",Esporte Interativo Plus
-https://us-b4-p-e-ft6.cdn.mdstrm.com/live-stream/5bfc4171cb01650d5908a91a/playout/master.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Sport",Esporte Interativo Plus
-https://us-b4-p-e-ft6.cdn.mdstrm.com/live-stream/5bfc4171cb01650d5908a91a/playout/index-f2-v1-a1.m3u8?checkedby:iptvcat.com&checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="https://i.imgur.com/k29sgDw.png" group-title="Sport",Esporte Interativo Plus
-https://us-b4-p-e-ft6.cdn.mdstrm.com/live-stream/5bfc4171cb01650d5908a91a/playout/index-f2-v1-a1.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Sport",Fox Sports 2 HD
-http://srv.maxptv.net:8080/BMW498/321321/529?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Sport",Fox Sports 2 HD
-http://212.38.189.9:25461/live/colin/colin/77691.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Sport",Fox Sports 2 SD
-http://srv.maxptv.net:8080/BMW498/321321/148?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Sport",Fox Sports HD
-http://srv.maxptv.net:8080/BMW498/321321/147?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Sport",Fox Sports HD
-http://212.38.189.9:25461/live/colin/colin/77692.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Sport",Fox Sports SD
-http://srv.maxptv.net:8080/BMW498/321321/146?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Sport",SporTV
-http://212.38.189.9:25461/live/colin/colin/77801.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Sport",SporTV 2
-http://212.38.189.9:25461/live/colin/colin/77802.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Sport",SporTV 2 FHD
-http://212.38.189.9:25461/live/colin/colin/77803.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Sport",SporTV 2 HD
-http://212.38.189.9:25461/live/colin/colin/77804.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Sport",SporTV 3
-http://212.38.189.9:25461/live/colin/colin/77805.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Sport",SporTV 3 FHD
-http://212.38.189.9:25461/live/colin/colin/77806.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Sport",SporTV 3 HD
-http://212.38.189.9:25461/live/colin/colin/77807.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Sport",SporTV FHD
-http://212.38.189.9:25461/live/colin/colin/77808.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Sport",SporTV HD
-http://212.38.189.9:25461/live/colin/colin/77809.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Sport",SporTV HD
-http://srv.maxptv.net:8080/BMW498/321321/49?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Sport",SporTV SD
-http://srv.maxptv.net:8080/BMW498/321321/48?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Sport",SporTV2 HD
-http://srv.maxptv.net:8080/BMW498/321321/47?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Sport",SporTV2 SD
-http://srv.maxptv.net:8080/BMW498/321321/46?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Sport",SporTV3 HD
-http://srv.maxptv.net:8080/BMW498/321321/45?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Sport",SporTV3 SD
-http://srv.maxptv.net:8080/BMW498/321321/44?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BG" tvg-logo="" group-title="Sport",Eurosport 1
-https://cdn1.mobiletv.bg/T8/eurosport/es_794613_850k.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BG" tvg-logo="" group-title="Sport",Eurosport 2
-https://cdn1.mobiletv.bg/T3/eurosport2/eurosport2_794613_850k.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BG" tvg-logo="" group-title="Sport",NOVA SPORT
-https://cdn1.mobiletv.bg/T14/ATV/novasport/novasport_ATV987654321.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Sport",NBA TV
-http://doubleagechanmain.com:80/123456/123456/9163?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Sport",NBA TV
-http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/50105?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Sport",SPORTSNET 360
-http://doubleagechanmain.com:80/123456/123456/9181?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Sport",SPORTSNET EAST
-http://doubleagechanmain.com:80/123456/123456/9182?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Sport",SPORTSNET ONE
-http://doubleagechanmain.com:80/123456/123456/9183?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Sport",SPORTSNET ONTARIO
-http://doubleagechanmain.com:80/123456/123456/9184?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Sport",SPORTSNET PACIFIC
-http://doubleagechanmain.com:80/123456/123456/9185?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Sport",SPORTSNET WEST
-http://doubleagechanmain.com:80/123456/123456/9187?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Sport",SUPER SPORTS CH 432
-http://thenew.tv:8000/live/Dante/Dante1/164693.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Sport",SUPER SPORTS CH 436
-http://thenew.tv:8000/live/Dante/Dante1/164695.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Sport",SUPER SPORTS CH 437
-http://thenew.tv:8000/live/Dante/Dante1/164696.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Sport",SUPER SPORTS CH 440
-http://thenew.tv:8000/live/Dante/Dante1/164699.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Sport",SUPER SPORTS CH 441
-http://thenew.tv:8000/live/Dante/Dante1/164700.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Sport",SUPER SPORTS CH 442
-http://thenew.tv:8000/live/Dante/Dante1/164701.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Sport",SUPER SPORTS CH 444
-http://thenew.tv:8000/live/Dante/Dante1/164703.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Sport",SUPER SPORTS CH 461
-http://thenew.tv:8000/live/Dante/Dante1/164705.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Sport",SUPER SPORTS CH 473
-http://thenew.tv:8000/live/Dante/Dante1/164707.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Sport",SUPER SPORTS CH 475
-http://thenew.tv:8000/live/Dante/Dante1/164708.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Sport",SUPER SPORTS CH 477
-http://thenew.tv:8000/live/Dante/Dante1/164710.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Sport",SUPER SPORTS CH 479
-http://thenew.tv:8000/live/Dante/Dante1/164712.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Sport",SUPER SPORTS CH 480
-http://thenew.tv:8000/live/Dante/Dante1/164713.m3u8?checkedby:iptvcat.com
+#EXTM3U
+#EXTINF:-1,DEPORTE_HD: BEIN SPORTS  ñ
+http://iptv.dns-extreme.info:25461/victorest/qwerty123/5650
+#EXTINF:-1,DEPORTE_HD: BEIN SPORTS 1
+http://iptv.dns-extreme.info:25461/victorest/qwerty123/5649
+#EXTINF:-1,DEPORTE_HD: BEIN SPORTS 10
+http://iptv.dns-extreme.info:25461/victorest/qwerty123/5638
+#EXTINF:-1,DEPORTE_HD: BEIN SPORTS 11
+http://iptv.dns-extreme.info:25461/victorest/qwerty123/5648
+#EXTINF:-1,DEPORTE_HD: BEIN SPORTS 2
+http://iptv.dns-extreme.info:25461/victorest/qwerty123/5647
+#EXTINF:-1,DEPORTE_HD: BEIN SPORTS 3
+http://iptv.dns-extreme.info:25461/victorest/qwerty123/5645
+#EXTINF:-1,DEPORTE_HD: BEIN SPORTS 4
+http://iptv.dns-extreme.info:25461/victorest/qwerty123/5644
+#EXTINF:-1,DEPORTE_HD: BEIN SPORTS 5
+http://iptv.dns-extreme.info:25461/victorest/qwerty123/5643
+#EXTINF:-1,DEPORTE_HD: BEIN SPORTS 6
+http://iptv.dns-extreme.info:25461/victorest/qwerty123/5642
+#EXTINF:-1,DEPORTE_HD: BEIN SPORTS 7
+http://iptv.dns-extreme.info:25461/victorest/qwerty123/5641
+#EXTINF:-1,DEPORTE_HD: BEIN SPORTS 8
+http://iptv.dns-extreme.info:25461/victorest/qwerty123/5640
+#EXTINF:-1,DEPORTE_HD: BEIN SPORTS 9
+http://iptv.dns-extreme.info:25461/victorest/qwerty123/5639
